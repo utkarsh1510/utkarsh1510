@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarsh1510
+- 👋 Hi, I’m Utkarsh
 - 👀 I’m interested in Web development, design && RELATED TECHNOLOGIES
 - 🌱 I’m currently learning NodeJS and loopback.
 - 💞️ I’m looking to collaborate on open source project related to web.
