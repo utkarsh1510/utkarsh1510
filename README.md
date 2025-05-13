@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh
 - 👀 I’m Full Stack Developer.
-- 🌱 I have experience working in NodeJs, Angular, React, MySqkl, MongoDB and some cloud technologies.
+- 🌱 I have experience working in NodeJs, Angular, React, MySql, MongoDB and some cloud technologies.
 - 💞️ I’m looking to collaborate on open source project related to web.
 - 📫 How to reach me LinkedIN - https://www.linkedin.com/in/utkarsh-376067141/
 
